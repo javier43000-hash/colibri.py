@@ -81,10 +81,11 @@ from PyQt6.QtWidgets import QApplication, QMainWindow, QWidget, QVBoxLayout, QHB
 
 ## Créditos
 
-Hecho por [TU NOMBRE/USUARIO].  
+Hecho por javier43000.  
 Inspirado en la libertad de aprender y compartir software.
 
 ---
 
 ¿Tienes sugerencias, ideas o encontraste un bug?  
+
 ¡Abre un issue o comenta aquí!
